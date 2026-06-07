@@ -1,0 +1,6 @@
+{
+  "name": "QuickPOS",
+  "description": "Aplikasi kasir POS lengkap dengan login session, manajemen stok, laporan penjualan real-time, barcode scanner, cetak struk, dan integrasi QRIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
